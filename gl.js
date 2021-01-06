@@ -2091,7 +2091,7 @@ var bindgen_module = {
         throw new Error(getStringFromWasm0(arg0, arg1));
     },
 
-    __wbindgen_closure_wrapper242: function(arg0, arg1, arg2) {
+    __wbindgen_closure_wrapper243: function(arg0, arg1, arg2) {
         var ret = makeClosure(arg0, arg1, 86, __wbg_adapter_10);
         return addHeapObject(ret);
     },
